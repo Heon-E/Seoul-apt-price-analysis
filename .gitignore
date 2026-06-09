@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# 생성된 파일 (코드 실행으로 재생성 가능)
+data/merged.csv
+
+# 개인 메모
+notes/
+
+# 중복 파일
+보고서.zip
